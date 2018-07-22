@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-inverse {
+  background-color: black;
+  min-height: 10%;
+  border: none;
+}
+.movies-column {
+  margin-top: 5px;
+  min-height: 50px;
+  border: 1px dashed #FFFFFF;
+  background-color: red;
+}
+
+.movies-column2 {
+  margin-top: 5px;
+  min-height: 50px;
+  border: 1px dashed #FFFFFF;
+  background-color: green;
+}
+.movies-column3 {
+  margin-top: 5px;
+  min-height: 50px;
+  border: 1px dashed #FFFFFF;
+  background-color: blue;
+}
